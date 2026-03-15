@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdul Shadab Khan </h1>
 
 <p align="center">
-  <b>CS Undergrad · AI/ML Engineer · Full-Stack Developer</b><br/>
+  <b>CS Undergrad · AI/ML Developer</b><br/>
   Warangal, Telangana, India
 </p>
 
