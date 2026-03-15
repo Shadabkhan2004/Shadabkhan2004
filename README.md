@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdul Shadab Khan 👋</h1>
+<h1 align="center">Hi, I'm Abdul Shadab Khan </h1>
 
 <p align="center">
   <b>CS Undergrad · AI/ML Engineer · Full-Stack Developer</b><br/>
@@ -9,7 +9,7 @@
   <a href="https://abdulshadabkhanportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abdul-shadab-khan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Shadabkhan2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="[https://tryhackme.com/p/Shadabkhan2004](https://tryhackme.com/p/abdulshadabkhan2)" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/abdulshadabkhan2" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <a href="tel:+916309250249"><img src="https://img.shields.io/badge/+91--6309250249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
@@ -56,7 +56,7 @@ Currently focused on **TCS NQT preparation** while actively seeking opportunitie
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 🌍 Earthquake Detection (CNN-LSTM)
 Multi-output deep learning model for seismic event detection and P/S wave arrival time prediction from 3-channel waveform spectrograms.
@@ -104,7 +104,7 @@ Full-stack pantry management platform that tracks item expiry dates and sends au
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadabkhan2004&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Shadabkhan2004&theme=default&hide_border=true" />
 </p>
 
 ---
