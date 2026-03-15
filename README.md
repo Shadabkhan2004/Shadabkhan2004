@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/abdul-shadab-khan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Shadabkhan2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/abdulshadabkhan2" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="https://instagram.com/abdul.shadabkhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="tel:+916309250249"><img src="https://img.shields.io/badge/+91--6309250249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul.shadabkhan)
 </p>
 
 ---
