@@ -76,7 +76,7 @@ Fine-tuned image classification model across 38 crop-disease classes with real-t
 ---
 
 ### 🔍 Research Paper Assistant (RAG)
-Retrieval-augmented QA system — upload any research paper and ask questions about it. Uses semantic chunking, vector search, and GPT for grounded answers.
+Retrieval-augmented QA system - upload any research paper and ask questions about it. Uses semantic chunking, vector search, and GPT for grounded answers.
 - **Stack:** Python · LangChain · ChromaDB · PyMuPDF · OpenAI GPT · FastAPI
 - [View Repository →](https://github.com/Shadabkhan2004/Research-Paper-Assistant)
 
