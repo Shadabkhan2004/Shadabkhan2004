@@ -11,6 +11,7 @@
   <a href="https://github.com/Shadabkhan2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://tryhackme.com/p/abdulshadabkhan2" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
   <a href="tel:+916309250249"><img src="https://img.shields.io/badge/+91--6309250249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul.shadabkhan)
 </p>
 
 ---
@@ -96,16 +97,10 @@ Full-stack pantry management platform that tracks item expiry dates and sends au
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shadabkhan2004&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabkhan2004&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shadabkhan2004&theme=default&hide_border=true" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shadabkhan2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Shadabkhan2004&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabkhan2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
