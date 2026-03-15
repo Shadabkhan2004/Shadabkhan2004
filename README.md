@@ -17,11 +17,11 @@
 
 ## About Me
 
-I'm a final-year Computer Science student at KITSW (graduating May 2026) with a strong focus on applied AI/ML and end-to-end software development. I build things that work - from deep learning pipelines with real-world data to full-stack applications with production-ready APIs.
+CS graduate from KITSW (Class of 2026), specializing in applied AI/ML and full-stack development. I've built and shipped projects across seismic event detection, computer vision, RAG pipelines each with a working backend and frontend, not just a notebook.
 
-My work spans seismic event detection, NLP-powered research assistants, computer vision classifiers, and customer analytics — all backed by clean code and documented workflows.
+My work sits at the intersection of deep learning and software engineering: training models that perform, wrapping them in APIs that hold up, and building interfaces people can actually use. I care about the full stack - from raw data to deployed product.
 
-Currently focused on **TCS NQT preparation** while actively seeking opportunities in AI/ML and software engineering. Also exploring **cybersecurity** via TryHackMe — 89 rooms completed · 21 badges · Rank #100876.
+Currently preparing for TCS NQT and open to opportunities in AI/ML and software engineering. Also exploring **cybersecurity** via TryHackMe — 89 rooms completed · 21 badges .
 
 ---
 
