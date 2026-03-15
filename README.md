@@ -22,7 +22,7 @@ CS graduate from KITSW (Class of 2026), specializing in applied AI/ML and full-s
 
 My work sits at the intersection of deep learning and software engineering: training models that perform, wrapping them in APIs that hold up, and building interfaces people can actually use. I care about the full stack - from raw data to deployed product.
 
-Currently preparing for TCS NQT and open to opportunities in AI/ML and software engineering. Also exploring **cybersecurity** via TryHackMe — 89 rooms completed · 21 badges .
+Currently preparing for TCS NQT and open to opportunities in AI/ML and software engineering. Also exploring **cybersecurity** via TryHackMe - 89 rooms completed · 21 badges .
 
 ---
 
@@ -63,7 +63,7 @@ Currently preparing for TCS NQT and open to opportunities in AI/ML and software 
 Multi-output deep learning model for seismic event detection and P/S wave arrival time prediction from 3-channel waveform spectrograms.
 - **Results:** F1: 0.99 · AUC: 0.9998 · P-wave MAE: 0.033
 - **Stack:** Python · TensorFlow · FastAPI · React · Grad-CAM
-- **Role:** Team lead — end-to-end from data preprocessing to deployment
+- **Role:** Team lead - end-to-end from data preprocessing to deployment
 - [View Repository →](https://github.com/Shadabkhan2004/Earthquake-Detection)
 
 ---
@@ -106,7 +106,7 @@ Full-stack pantry management platform that tracks item expiry dates and sends au
 
 ## 🎓 Education
 
-**B.Tech in Computer Science & Engineering** — KITSW *(Nov 2022 – May 2026)*
+**B.Tech in Computer Science & Engineering** - KITSW *(Nov 2022 – May 2026)*
 CGPA: **8.22**
 
 ---
