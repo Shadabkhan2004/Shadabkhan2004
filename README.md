@@ -1,16 +1,121 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abdul Shadab Khan 👋</h1>
 
-<!--
-**Shadabkhan2004/Shadabkhan2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>CS Undergrad · AI/ML Engineer · Full-Stack Developer</b><br/>
+  Warangal, Telangana, India
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://abdulshadabkhanportfolio.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdul-shadab-khan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Shadabkhan2004" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="[https://tryhackme.com/p/Shadabkhan2004](https://tryhackme.com/p/abdulshadabkhan2)" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+  <a href="tel:+916309250249"><img src="https://img.shields.io/badge/+91--6309250249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a final-year Computer Science student at KITSW (graduating May 2026) with a strong focus on applied AI/ML and end-to-end software development. I build things that work - from deep learning pipelines with real-world data to full-stack applications with production-ready APIs.
+
+My work spans seismic event detection, NLP-powered research assistants, computer vision classifiers, and customer analytics — all backed by clean code and documented workflows.
+
+Currently focused on **TCS NQT preparation** while actively seeking opportunities in AI/ML and software engineering. Also exploring **cybersecurity** via TryHackMe — 89 rooms completed · 21 badges · Rank #100876.
+
+---
+
+## 🛠 Tech Stack
+
+**AI / ML / Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Web & Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🌍 Earthquake Detection (CNN-LSTM)
+Multi-output deep learning model for seismic event detection and P/S wave arrival time prediction from 3-channel waveform spectrograms.
+- **Results:** F1: 0.99 · AUC: 0.9998 · P-wave MAE: 0.033
+- **Stack:** Python · TensorFlow · FastAPI · React · Grad-CAM
+- **Role:** Team lead — end-to-end from data preprocessing to deployment
+- [View Repository →](https://github.com/Shadabkhan2004/Earthquake-Detection)
+
+---
+
+### 🌾 Crop Disease Classifier (EfficientNetB0)
+Fine-tuned image classification model across 38 crop-disease classes with real-time prediction via a React frontend.
+- **Results:** 94.4% test accuracy
+- **Stack:** TensorFlow/Keras · FastAPI · React · Vite
+- [View Repository →](https://github.com/Shadabkhan2004/Crop-Disease-Classification)
+
+---
+
+### 🔍 Research Paper Assistant (RAG)
+Retrieval-augmented QA system — upload any research paper and ask questions about it. Uses semantic chunking, vector search, and GPT for grounded answers.
+- **Stack:** Python · LangChain · ChromaDB · PyMuPDF · OpenAI GPT · FastAPI
+- [View Repository →](https://github.com/Shadabkhan2004/Research-Paper-Assistant)
+
+---
+
+### 🧠 AI Resume Analyzer
+Full-stack HR tool that extracts structured candidate information from resumes and answers custom HR queries using LLM + vector search. Supports PDF, DOCX, and TXT uploads.
+- **Stack:** FastAPI · LangChain · OpenAI GPT-4 · Chroma · React · Tailwind CSS
+- [View Repository →](https://github.com/Shadabkhan2004/AI-Resume-Analyzer)
+
+---
+
+### 🍱 SaveMyFood.com
+Full-stack pantry management platform that tracks item expiry dates and sends automated email alerts before items expire. Uses cron jobs for daily cleanup and notification scheduling.
+- **Stack:** Node.js · Express · MongoDB · Nodemailer
+- [View Repository →](https://github.com/Shadabkhan2004/SaveMyFood.com)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shadabkhan2004&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadabkhan2004&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadabkhan2004&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science & Engineering** — KITSW *(Nov 2022 – May 2026)*
+CGPA: **8.22**
+
+---
+
+<p align="center">
+  <i>Open to full-time and internship opportunities in AI/ML and Software Engineering.</i>
+</p>
