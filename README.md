@@ -22,7 +22,7 @@ CS graduate from KITSW (Class of 2026), specializing in applied AI/ML and full-s
 
 My work sits at the intersection of deep learning and software engineering: training models that perform, wrapping them in APIs that hold up, and building interfaces people can actually use. I care about the full stack - from raw data to deployed product.
 
-Currently preparing for TCS NQT and open to opportunities in AI/ML and software engineering. Also exploring **cybersecurity** via TryHackMe - 89 rooms completed · 21 badges .
+Open to opportunities in AI/ML and software engineering. Also exploring **cybersecurity** via TryHackMe - 89 rooms completed · 21 badges .
 
 ---
 
