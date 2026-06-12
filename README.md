@@ -109,7 +109,7 @@ Full-stack pantry management platform that tracks item expiry dates and sends au
 ## 🎓 Education
 
 **B.Tech in Computer Science & Engineering** - KITSW *(Nov 2022 – May 2026)*
-CGPA: **8.22**
+CGPA: **8.30**
 
 ---
 
